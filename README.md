@@ -1,5 +1,3 @@
-Start with Introduction
-You can say:
 "Hello, I am Sneha. I have created a Super Store Sales Performance Dashboard using SQL and Power BI.
 The dashboard helps the company understand overall sales, profit, quantity sold, and performance by region, segment, category, and sub-category."
 
